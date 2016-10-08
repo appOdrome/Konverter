@@ -1,0 +1,9 @@
+
+Konverter Icon-Größen
+
+72x72 hdpi
+48x48 mdpi
+96x96 xhdpi
+144x144 xxhdpi
+192x192 xxxhdpi
+

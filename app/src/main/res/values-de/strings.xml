@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Konverter</string>
+    <string name="calculation_output">"Ergebnis: "</string>
+    <string name="cm_zoll"><![CDATA[CM -> ZOLL]]></string>
+    <string name="deine_eingabe">Deine Eingabe...</string>
+    <string name="eur_usd"><![CDATA[EUR -> USD]]></string>
+    <string name="invalid_input">Ungültige Eingabe></string>
+    <string name="reset">Zurücksetzen</string>
+    <string name="usd_eur"><![CDATA[USD -> EUR]]></string>
+    <string name="zoll_cm"><![CDATA[ZOLL -> CM]]></string>
+</resources>

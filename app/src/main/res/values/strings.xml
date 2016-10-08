@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="deine_eingabe">Your input...</string>
+    <string name="usd_eur"><![CDATA[USD -> EUR]]></string>
+    <string name="eur_usd"><![CDATA[EUR -> USD]]></string>
+    <string name="zoll_cm"><![CDATA[INCH -> CM]]></string>
+    <string name="cm_zoll"><![CDATA[CM -> INCH]]></string>
+    <string name="invalid_input">Invalid Input</string>
+    <string name="calculation_output">\"Result: \"</string>
+    <string name="reset">Reset</string>
+    </resources>
