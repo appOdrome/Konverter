@@ -7,7 +7,6 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
-
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 
@@ -41,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    // Die Methode convert funktioniert hier als wiederverwendbarar onClick-Listener
+    // Die Methode convert funktioniert hier als wiederverwendbarer onClick-Listener
     // mit dem alle Buttonfunktionen übersichtlich zusammengefasst werden können
     public void convert (View view)
     {
@@ -89,12 +88,11 @@ public class MainActivity extends AppCompatActivity {
 
     // ---------------  Methoden in der App --------------------------------------------
 
-    // Resetfunktion zum löschen einer vorhandenen Berechnungen
+    // Resetfunktion zum Löschen einer vorhandenen Berechnungen
     public void reset(View view)
     {
         eingabe.setText("");  // Löscht vorhandenen Text im Eingabefeld
         ausgabe.setText("");  // Löscht vorhandenen Text im Ausgabefeld
-        // ausgabe.setVisibility(View.INVISIBLE); // Macht das Ausgabefeld "unsichttbar"
     }
 
     // Hier folgen die Methoden, die die eigentlichen Berechnungen vornehmen
