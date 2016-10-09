@@ -64,7 +64,7 @@ public class MainActivity extends AppCompatActivity {
         }
 
 
-        // Button-ID abrufen und gewünschte Methode zur Berechnung aufrufen
+        // Button-ID abrufen und die gewünschte Methode zur Berechnung aufrufen
         // Diese Funktion ruft die Button-ID ab und mit der Fallunterscheidung (Case) kann dann die
         // entsprechende Berechnung vorgenommen werden
         switch (view.getId()){
